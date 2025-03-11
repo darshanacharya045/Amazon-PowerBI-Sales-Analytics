@@ -21,7 +21,7 @@ This **Amazon Power BI Sales Analytics Dashboard** provides **data-driven insigh
 ## 📊 Dashboard Snapshots  
 | **Overview** | **Products** | **Product View** |  
 |----------------|----------------------|----------------|  
-| ![Sales Trends](https://github.com/darshanacharya045/Amazon-PowerBI-Sales-Analytics/blob/main/Amazon%20Power%20BI%20Sales%20Analytics%20Dashboard.jpeg?raw=true) | ![City Sales](https://github.com/darshanacharya045/Amazon-PowerBI-Sales-Analytics/blob/main/Amazon_PowerBI_Sales_Report_Products.jpeg?raw=true) | ![Order Tracking](https://github.com/darshanacharya045/Amazon-PowerBI-Sales-Analytics/blob/main/Amazon_PowerBI_Sales_Report_Product_view.jpeg?raw=true) |  
+| ![Sales Trends](https://github.com/darshanacharya045/Amazon-PowerBI-Sales-Analytics/blob/main/Reports/README.mdAmazon%20Power%20BI%20Sales%20Analytics%20Dashboard.jpeg?raw=true) | ![City Sales](https://github.com/darshanacharya045/Amazon-PowerBI-Sales-Analytics/blob/main/Reports/README.mdAmazon_PowerBI_Sales_Report_Products.jpeg?raw=true) | ![Order Tracking](https://github.com/darshanacharya045/Amazon-PowerBI-Sales-Analytics/blob/main/Reports/README.mdAmazon_PowerBI_Sales_Report_Product_view.jpeg?raw=true) |  
 
 ## 🔧 Installation & Setup  
 ### **1️⃣ Download Files**  
